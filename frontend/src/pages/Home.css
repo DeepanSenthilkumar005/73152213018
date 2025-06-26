@@ -1,0 +1,30 @@
+.container {
+  background: #ffffff;
+  display: flex;
+  gap: 8px;
+  flex-direction: column;
+  text-decoration: none;
+  margin-top: auto;
+  width: 50%;
+  height: 80%;
+  border-radius: 15px;
+  padding: 10px;
+  margin-top: 15px;
+  margin-left: 20px;
+  box-shadow: #767575 0px 7px 9px 1px;
+
+}
+
+.homeText{
+    border-radius: 8px;
+    padding: 2px 4px;
+    outline: none;
+}
+
+.btn{
+    background: rgb(44, 136, 212);
+    color:white;
+    padding: 2px 4px;
+    border-radius: 8px;
+    cursor: pointer;
+}
